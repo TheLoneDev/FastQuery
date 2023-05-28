@@ -2,7 +2,7 @@
 
 Make DNS queries fast and without cache :D
 
-![demo](https://i.imgur.com/caGcHNT.png)
+![demo](https://i.imgur.com/o6h1Err.png)
 
 ## WIP
 
